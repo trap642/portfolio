@@ -36,7 +36,7 @@ os.system('clear')
 
 # Authentication has passed
 print('\n' * 10 + ' ' * 75 + 'Access Granted!')
-print('\n' + ' ' * 74 + 'Hello Gina xox  ;)')
+print('\n' + ' ' * 74 + 'Hello S xox  ;)')
 
 # Used to simulate loading progress of the main program
 print(start_loading)
@@ -59,7 +59,7 @@ localtime = time.asctime( time.localtime(time.time()) )
 print(items + ' ' * 66 + localtime + ' ' * 65 + reversed_items)
 
 # The Greeting
-print(items + ' ' * 67 + 'Happy Valentine\'s Day !' + ' ' * 65 + reversed_items)
+print(items + ' ' * 67 + 'Happy Valentine\'s Day Guys !' + ' ' * 65 + reversed_items)
 
 
 # Heart Section 1 of 3: Pattern -2 +2 -4 +2 -2
